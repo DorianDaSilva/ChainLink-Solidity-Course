@@ -12,3 +12,4 @@ contract ExtraStorage is SimpleStorage {
     }
 
 }
+
